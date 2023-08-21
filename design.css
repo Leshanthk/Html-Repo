@@ -1,0 +1,42 @@
+
+body{
+    
+   background-image: linear-gradient(   to right, orange,red);
+   background-repeat: no-repeat;
+   height: 100vh;
+   overflow: hidden;
+}
+.container{
+   height: 40%;
+   width: 50%;
+   border-radius: 10px;
+   background-color: aliceblue;
+   position: relative;
+   left: 400px;
+   top:250px
+     
+}
+.container2{
+    position: absolute;
+    left: 250px;
+    top: 70px;
+
+
+}
+.container3{
+    width: 15%;
+    height: 25%;
+    background-color:red;
+  position: absolute;
+  top: 45%;
+  left:23%;
+  border-radius: 10px;
+    
+
+    
+}
+.container2 input{
+    border-radius: 20px;
+    padding: 10px;
+    background-image: linear-gradient(orange,red);
+}

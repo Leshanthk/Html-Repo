@@ -1,0 +1,88 @@
+body{
+    background-color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.container{
+    position: absolute;
+    left: 13%;
+    top: 25%;
+    height: 50%;
+    width: 70%;
+    background-image: linear-gradient(to right,orange, pink);
+    background-repeat: no-repeat;
+   border-radius: 10px;
+}
+.container1{
+   position: absolute;
+   left: 5%;
+   top: 5%;
+   width: 20%;
+   height: 90%;
+   border-radius:10px;
+   background-color: black;
+}
+.container1 img{
+    position: absolute;
+    left:8%;
+    top:10%;
+    padding: 20px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
+
+}
+.container1 h2{
+    color: palevioletred;
+    position: absolute;
+    left: 15%;
+    top: 60%;
+}
+.container h2 span{
+    color: yellow;
+}
+.container1 h3{
+    position: absolute;
+   left: 20%;
+   top: 70%;
+   color: white;
+}
+
+.container2{
+    position: absolute;
+    left: 35%;
+    top: 5%;
+    width: 60%;
+    height: 90%;
+    background-color: black;
+    border-radius: 10px;
+}
+.container2 h1{
+    position: absolute;
+    left: 35%;
+    top: 5%;
+    color:pink ;
+
+}
+.container2 span{
+    color: yellow;
+}
+.container2 table{
+    position: absolute;
+    left: 25%;
+    top: 35%;
+    color: white;
+}
+.container2 p{
+    color: antiquewhite;
+    position: absolute;
+    left: 25%;
+    top:73%;
+
+}
+.container2 i{
+    color: red;
+}
+.container2 h1 span{
+    font-size: 20px;
+}

@@ -1,0 +1,55 @@
+body{
+    background-color: rgba(237, 26, 61, 0.725);
+}
+.container{
+    position: absolute;
+    height: 50%;
+    width: 20%;
+    left: 30%;
+    top: 20%;
+    background-color: black;
+    border-radius: 10px;
+
+}
+.container p{
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+   
+
+}
+.container span p{
+    position: absolute;
+    left: 30px;
+    top: 80%;
+}
+.container2{
+    position: absolute;
+    height: 55%;
+    width: 20%;
+    left: 48%;
+    top: 15%;
+    background-color: white;
+    border-radius: 10px;
+    transform: skew(-20deg);
+
+}
+.container2 h1{
+ color: black;
+ padding: 10px;
+ font-weight: bold;
+}
+.container2 hr{
+    border-radius: 10px;
+}
+.container2 h2{
+    font-weight: bold;
+    padding: 10px;
+
+}
+.container2 p{
+    position: absolute;
+    left: 30px;
+    top: 80%;
+    font-weight: bold;
+}
